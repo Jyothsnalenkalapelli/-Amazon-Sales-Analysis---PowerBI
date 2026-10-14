@@ -50,7 +50,7 @@ This dashboard helps users understand sales performance, identify high-performin
 
 📁 Project Files
 - Power BI dashboard file (".pbix")
-- Source dataset (".xlsx" or ".csv")
+- Source dataset (".xlsx")
 - Dashboard  (".pdf")
 
 👩‍💻 Author
